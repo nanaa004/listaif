@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\testeif\testeif\bin\Debug\net7.0\testeif.exe
+C:\Users\Fernanda46528586\Documents\testeif\testeif\bin\Debug\net7.0\testeif.deps.json
+C:\Users\Fernanda46528586\Documents\testeif\testeif\bin\Debug\net7.0\testeif.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\testeif\testeif\bin\Debug\net7.0\testeif.dll
+C:\Users\Fernanda46528586\Documents\testeif\testeif\bin\Debug\net7.0\testeif.pdb
+C:\Users\Fernanda46528586\Documents\testeif\testeif\obj\Debug\net7.0\testeif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\testeif\testeif\obj\Debug\net7.0\testeif.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\testeif\testeif\obj\Debug\net7.0\testeif.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\testeif\testeif\obj\Debug\net7.0\testeif.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\testeif\testeif\obj\Debug\net7.0\testeif.dll
+C:\Users\Fernanda46528586\Documents\testeif\testeif\obj\Debug\net7.0\refint\testeif.dll
+C:\Users\Fernanda46528586\Documents\testeif\testeif\obj\Debug\net7.0\testeif.pdb
+C:\Users\Fernanda46528586\Documents\testeif\testeif\obj\Debug\net7.0\testeif.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\testeif\testeif\obj\Debug\net7.0\ref\testeif.dll

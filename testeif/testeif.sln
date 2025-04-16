@@ -5,13 +5,23 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testeif", "testeif.csproj", "{4C520C3C-136C-4655-8E13-E34281157897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "questao2", "..\questao2\questao2.csproj", "{A10FEEBF-F8C8-4731-BC47-A6C74C9087DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "questao2", "..\questao2\questao2.csproj", "{A10FEEBF-F8C8-4731-BC47-A6C74C9087DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "questao3", "..\questao3\questao3.csproj", "{08F3FDC9-B316-467D-A008-0C5254C05FB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "questao3", "..\questao3\questao3.csproj", "{08F3FDC9-B316-467D-A008-0C5254C05FB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "questao4", "..\questao4\questao4.csproj", "{8A26DC39-B0A0-4D56-BE21-A0BF6DF05E45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "questao4", "..\questao4\questao4.csproj", "{8A26DC39-B0A0-4D56-BE21-A0BF6DF05E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "questao5", "..\questao5\questao5.csproj", "{661D958E-DC4A-4560-A621-AC7D486181CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "questao5", "..\questao5\questao5.csproj", "{661D958E-DC4A-4560-A621-AC7D486181CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "questao6", "..\questao6\questao6.csproj", "{DEB90863-8FB2-412E-B0C0-C4365DB76472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "questao7", "..\questao7\questao7.csproj", "{C862E184-1C4D-4B77-8BFC-969A282F1AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "questao8", "..\questao8\questao8.csproj", "{260DF6B2-F715-4BCC-A03D-084EE80D5470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quetsao9", "..\quetsao9\quetsao9.csproj", "{53063D54-86E2-4F60-A472-88C0FEADB251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "questao10", "..\ConsoleApp1\questao10.csproj", "{B37DF292-6F18-4559-B59F-503CFA0E5986}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{661D958E-DC4A-4560-A621-AC7D486181CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{661D958E-DC4A-4560-A621-AC7D486181CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{661D958E-DC4A-4560-A621-AC7D486181CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEB90863-8FB2-412E-B0C0-C4365DB76472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB90863-8FB2-412E-B0C0-C4365DB76472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB90863-8FB2-412E-B0C0-C4365DB76472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB90863-8FB2-412E-B0C0-C4365DB76472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C862E184-1C4D-4B77-8BFC-969A282F1AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C862E184-1C4D-4B77-8BFC-969A282F1AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C862E184-1C4D-4B77-8BFC-969A282F1AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C862E184-1C4D-4B77-8BFC-969A282F1AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260DF6B2-F715-4BCC-A03D-084EE80D5470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260DF6B2-F715-4BCC-A03D-084EE80D5470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260DF6B2-F715-4BCC-A03D-084EE80D5470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260DF6B2-F715-4BCC-A03D-084EE80D5470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53063D54-86E2-4F60-A472-88C0FEADB251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53063D54-86E2-4F60-A472-88C0FEADB251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53063D54-86E2-4F60-A472-88C0FEADB251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53063D54-86E2-4F60-A472-88C0FEADB251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37DF292-6F18-4559-B59F-503CFA0E5986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37DF292-6F18-4559-B59F-503CFA0E5986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37DF292-6F18-4559-B59F-503CFA0E5986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37DF292-6F18-4559-B59F-503CFA0E5986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

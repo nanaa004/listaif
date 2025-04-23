@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\obj\Debug\net7.0\Teste&&.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\obj\Debug\net7.0\Teste&&.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\obj\Debug\net7.0\Teste&&.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\obj\Debug\net7.0\Teste&&.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\bin\Debug\net7.0\Teste&&.exe
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\bin\Debug\net7.0\Teste&&.deps.json
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\bin\Debug\net7.0\Teste&&.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\bin\Debug\net7.0\Teste&&.dll
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\bin\Debug\net7.0\Teste&&.pdb
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\obj\Debug\net7.0\Teste&&.dll
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\obj\Debug\net7.0\refint\Teste&&.dll
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\obj\Debug\net7.0\Teste&&.pdb
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\obj\Debug\net7.0\Teste&&.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\testeif\Teste&&\obj\Debug\net7.0\ref\Teste&&.dll

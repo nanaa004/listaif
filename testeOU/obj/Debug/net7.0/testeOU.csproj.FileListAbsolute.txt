@@ -1,0 +1,14 @@
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\bin\Debug\net7.0\testeOU.exe
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\bin\Debug\net7.0\testeOU.deps.json
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\bin\Debug\net7.0\testeOU.runtimeconfig.json
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\bin\Debug\net7.0\testeOU.dll
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\bin\Debug\net7.0\testeOU.pdb
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\obj\Debug\net7.0\testeOU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\obj\Debug\net7.0\testeOU.AssemblyInfoInputs.cache
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\obj\Debug\net7.0\testeOU.AssemblyInfo.cs
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\obj\Debug\net7.0\testeOU.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\obj\Debug\net7.0\testeOU.dll
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\obj\Debug\net7.0\refint\testeOU.dll
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\obj\Debug\net7.0\testeOU.pdb
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\obj\Debug\net7.0\testeOU.genruntimeconfig.cache
+C:\Users\Fernanda46528586\Documents\testeif\testeOU\obj\Debug\net7.0\ref\testeOU.dll
